@@ -8,4 +8,4 @@
 ## Using ANN to predict next day's stock price
 ![Alt text](/SS-demo-1.png?raw=true "USING ANN")
 ## Recommendation
-![Alt text](/SS-demo-1.png?raw=true "Final Product")
+![Alt text](/SS-demo-3.png?raw=true "Final Product")
